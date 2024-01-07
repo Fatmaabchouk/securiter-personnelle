@@ -4,9 +4,13 @@ A Business Information System student. I consider my self a responsible and orde
     .Mobile App Developer 📱
     .Web Developer
 
-    📚 Check Out My Work
+    . Check Out My Work
 Explore some of my projects:
 .https://ftamaabchouk.onrender.com/cv.html
+  
+    
+    
+    
     🌟 Let's Connect!
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out:
 
